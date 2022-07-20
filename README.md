@@ -1,4 +1,5 @@
 #THAOLUNDRA MULTIPLAYER
+
 This is a Unreal Engine 5 Blueprint 3D game Project using both Advanced Locomotion System v4 and Dynamic Combat System from the Epic Marketplace. The objective is to create a game prototype mainly capable of multiplayer PvP matches. The project is managed by Enio Fortes and directed by Aoshi Kearun. Aoshi is also the only programmer so far and coding using mainly the UE5 blueprint system. We also have two very talented concept artists Tiago "Mushi" Monteiro and Thais Campos, and the musical composer and performer Luis "Chico" Gomes as well. This team also was concepted to act as a creative assembly, equally voiced in the creative decisions made for the project. The project is yet not funded, but it aims to create a crowdfunding campaign as soon as the main test phase ends.
 
 
