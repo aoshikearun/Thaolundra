@@ -8,9 +8,11 @@ This is a Unreal Engine 5 Blueprint 3D game Project using both Advanced Locomoti
 It is a scenario for TTRPG d100 system adapted from Runequest created by Aoshi Kearun. The scenario consist in a planet called Thaolundra with a variety of elementally and technologically powered individuals, landscapes and dungeons. A story played by dozens of players for almost 22 years. You can learn more and even play a session accessing the link [Thaolundra TTRPG](http://thaolundra.bubbleapps.io "Thaolundra TTRPG").
 
 ###2. The Game
+
 The game will initially consist in a multi-objective RPG arena where you can choose atributes, weapons and a elemental power source for your techniques, while battling in a total of 4 levels. The goal is to translate the multifaceted combat together with the immersive sense of exploration to the videogame medium through - initially - fast paced and customizable combat experience and later with story-driven campaigns.
 
 ###3. Content
+
 As for now the team is not nearly enough to make a full-fledged game, so we are taking our time with the development and dividing our content creation into bits we can actually finish. For now, all 3D content: static and skeleton meshes, animations, etc; are pre-made and from the epic marketplace, but we do intend to make some of them our own in the future. For the hour we are dividing our content in the following categories.
 
 ####a. Done (tested)
