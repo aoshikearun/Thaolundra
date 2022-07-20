@@ -45,7 +45,7 @@ As for now the team is not nearly enough to make a full-fledged game, so we are 
 - 5 types of animals
 - Arena Objectives
 - Random roll for attributes
-- 4 Levels: Dashnarian Caves, Skycrapper 1 and 2 at the Otaram Reign, Ryvarinan Monyaca Fields.
+- 4 Levels: Dashnarian Mines, Skycrapper Siege at the Otaram Reign (2 maps), Ryvarinan Monyaca Fields.
 
 #### d. Future
 
