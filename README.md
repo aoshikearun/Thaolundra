@@ -34,10 +34,13 @@ As for now the team is not nearly enough to make a full-fledged game, so we are 
 - Inventory System
 - Resource gatherers with Chaos Destruction System
 - Item drops
+- Modular AI with the same characteristics from the players
+- Death drops of resources to keep the flow going.
+- On Effect Hit bonuses
+- Stun, poison, burn, wet and shock conditions.
 
 #### c. WIP:
 
-- Multiplayer Ranged combat
 - Multiplayer save systems
 - Day/Night System
 - Weather System
